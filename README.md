@@ -9,7 +9,7 @@
  <div>
 <div align="center">
   <a href="https://github.com/Henry-Medina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry-Medina_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry-Medinaicons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Medina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
